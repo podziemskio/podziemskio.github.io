@@ -1,10 +1,16 @@
-head {
-    color: red;
-}
-
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+h2 {
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 .topnav {
